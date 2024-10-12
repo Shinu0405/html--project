@@ -37,10 +37,10 @@ h2{
 .Pic:hover{
     content: url( IMG/Katsuyiki.webp );
 }
-.Pic1:hover{
-    content: url( IMG/Kenkaneki2.webp );
-}
 .Pic1{
     width: 290px;
     height: 290px;
+}
+.Pic1:hover{
+    content: url( IMG/Kenkaneki2.webp );
 }
