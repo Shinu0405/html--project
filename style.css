@@ -48,3 +48,18 @@ h2{
 .Pic1:hover{
     content: url( IMG/Kenkaneki2.webp );
 }
+.C1 
+{
+    display: inline-block;
+    margin-left: 33%
+}
+
+h1{
+    color: #FF0000;
+    text-align: center;
+}
+
+.C5
+{
+    margin-left: 33%
+}
