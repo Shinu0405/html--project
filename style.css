@@ -1,5 +1,5 @@
 div{
-    border:solid #000000 ;
+    
     background-color:#3D0000 ;
     padding: 10px;
 }
@@ -9,6 +9,7 @@ body{
  background-position: center;
  background-attachment: fixed;
  background-repeat: no-repeat;
+ padding: 20px;
 }
 p{
     color:#EEEEEE ;
